@@ -7,5 +7,36 @@
 main{
   max-width: 800px;
   padding: 30px;
+  
+}
+body{
+color:#444;
 }
 
+h2{
+  margin-bottom: 20px;
+  font-size: 18px;
+  color:#222222;
+  font-weight: bold;
+  border-bottom: 1px solid #222;
+  padding-bottom: 10px;
+}
+
+input{
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button{
+
+  margin: 5px;
+  color:#fff;
+  border-radius: 5px;
+  padding:5px 10px;
+  background: #00dc82 !important;
+}
+
+svg{
+  display: inline-block;
+}

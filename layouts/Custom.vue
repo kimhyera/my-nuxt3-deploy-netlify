@@ -9,7 +9,7 @@
 </template>
 <style lang="scss" scoped>
 .custom-layout{
-  border:1px solid mediumspringgreen;
+  border:1px solid #0058dc;
   min-height: 100px;
 }
 </style>

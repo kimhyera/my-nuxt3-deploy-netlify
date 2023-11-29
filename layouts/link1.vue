@@ -8,8 +8,8 @@
 </template>
 <style lang="scss" scoped>
 .link-1{
-  border:1px solid #00c5f6;
-  background: rgb(206, 238, 255);
+  // border:1px solid #00dc82;
+  background:#f2fcf8;
   min-height: 300px;
 }
 </style>

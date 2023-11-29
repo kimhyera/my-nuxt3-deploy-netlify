@@ -10,9 +10,8 @@
 </template>
 <style lang="scss" scoped>
 .custom-layout{
-  // border:1px solid rgb(142, 0, 250);
-  
-  background: rgb(239, 239, 239);
-  min-height: 100px;
+border-bottom :1px solid #e2e8f0;
+  background: #f8fafc;
+  min-height: 300px;
 }
 </style>

@@ -11,10 +11,12 @@ const themeComponent = ref<any>(null)
 // 비동기로 themeName을 받아오는 함수
 const fetchThemeName = async (theme:string) => {
    new Promise((resolve) => {
-    setTimeout(()=>{
+    // setTimeout(()=>{
      layout.value = theme
      themeComponent.value = defineComponent(setTheme(theme) as any);
-    },0)
+
+      
+    // },0)
   });
 };
 

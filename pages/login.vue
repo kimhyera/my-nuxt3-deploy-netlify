@@ -90,7 +90,7 @@ const url = "https://reqres.in/api/login"
       <input type="password" v-model=form.password class=" text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300">
     </li>
    </ul>
-   <button type="submit" class="p-2 rounded-md bg-indigo-600 text-white">login</button>
+   <button type="submit" class="p-2 rounded-md">login</button>
    </form>
 
    
