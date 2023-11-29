@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <defs>
+        <filter id="5e4rjsia9a" x="0" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+            <feOffset dx="2"/>
+            <feGaussianBlur stdDeviation="2" result="blur"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#5e4rjsia9a)">
+        <g data-name="btn_toggle-default" transform="translate(4 6)" style="fill:#fff;stroke:#ccc;stroke-width:2px">
+            <circle cx="13" cy="13" r="13" style="stroke:none"/>
+            <circle cx="13" cy="13" r="12" style="fill:none"/>
+        </g>
+    </g>
+</svg>

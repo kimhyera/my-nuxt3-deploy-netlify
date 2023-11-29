@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g data-name="btn_naver/48">
+        <g data-name="그룹 12100" transform="translate(-.5 -.5)">
+            <circle data-name="타원 561" cx="24" cy="24" r="24" transform="translate(.5 .5)" style="fill:#00c73c"/>
+        </g>
+        <g data-name="그룹 12497">
+            <path data-name="패스 30339" d="m34.917 41.042-5.1-7.492v7.492H24.5V26.569h5.392l5.1 7.491v-7.491h5.316v14.473z" transform="translate(-8.499 -9.805)" style="fill:#fff"/>
+            <path data-name="사각형 6104" transform="translate(14 14)" style="fill:none" d="M0 0h20v20H0z"/>
+        </g>
+    </g>
+</svg>

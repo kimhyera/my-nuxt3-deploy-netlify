@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <g data-name="btn_plus-disable/36">
+        <g data-name="그룹 8380" transform="translate(-302 -198)">
+            <rect data-name="사각형 3390" width="10" height="2" rx="1" transform="translate(315 215)" style="fill:#666"/>
+            <rect data-name="사각형 3391" width="10" height="2" rx="1" transform="rotate(90 55 266)" style="fill:#666"/>
+        </g>
+        <path data-name="사각형 3465" transform="translate(13 13)" style="fill:none" d="M0 0h10v10H0z"/>
+        <g data-name="사각형 5037" style="fill:#fff;stroke:#ccc">
+            <rect width="36" height="36" rx="10" style="stroke:none"/>
+            <rect x=".5" y=".5" width="35" height="35" rx="9.5" style="fill:none"/>
+        </g>
+        <g data-name="그룹 11465">
+            <g data-name="그룹 8380" transform="translate(-302 -198)">
+                <rect data-name="사각형 3390" width="10" height="2" rx="1" transform="translate(315 215)" style="fill:#ddd"/>
+                <rect data-name="사각형 3391" width="10" height="2" rx="1" transform="rotate(90 55 266)" style="fill:#ddd"/>
+            </g>
+        </g>
+    </g>
+</svg>

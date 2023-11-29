@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="o0zaelgkha">
+            <path data-name="사각형 6699" style="fill:#444" d="M0 0h23.5v17.774H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon_mail/24">
+        <path data-name="사각형 6689" style="fill:none" d="M0 0h24v24H0z"/>
+        <g data-name="그룹 14013">
+            <g data-name="그룹 14012" style="clip-path:url(#o0zaelgkha)" transform="translate(.25 3)">
+                <path data-name="패스 30754" d="M20.35 17.774H3.15A3.153 3.153 0 0 1 0 14.625V3.15A3.153 3.153 0 0 1 3.15 0h17.2a3.153 3.153 0 0 1 3.15 3.15v11.475a3.153 3.153 0 0 1-3.15 3.149M3.15 1.5A1.652 1.652 0 0 0 1.5 3.15v11.475a1.651 1.651 0 0 0 1.65 1.649h17.2A1.651 1.651 0 0 0 22 14.625V3.15a1.652 1.652 0 0 0-1.65-1.65z" style="fill:#444"/>
+                <path data-name="패스 30755" d="M11.75 9.757a3.159 3.159 0 0 1-1.944-.668L1.689 2.766a.75.75 0 0 1 .923-1.183l8.116 6.322a1.659 1.659 0 0 0 2.043 0l8.118-6.322a.75.75 0 1 1 .921 1.183l-8.117 6.323a3.156 3.156 0 0 1-1.943.668" style="fill:#444"/>
+            </g>
+        </g>
+    </g>
+</svg>

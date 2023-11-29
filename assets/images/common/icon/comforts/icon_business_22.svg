@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_business/ 22">
+        <g data-name="그룹 12836">
+            <path data-name="사각형 5935" style="fill:none" d="M0 0h22v22H0z"/>
+            <g data-name="그룹 12835">
+                <path data-name="사각형 5966" d="M0 0h11.775v7.208a1.082 1.082 0 0 1-1.082 1.082H1.082A1.082 1.082 0 0 1 0 7.208V0z" transform="translate(4.771 2.427)" style="fill:#dbdbdb"/>
+                <path data-name="패스 30871" d="M.6 0h11.86a.6.6 0 0 1 .6.6v.669a.6.6 0 0 1-.6.6H.6a.6.6 0 0 1-.6-.6V.6A.6.6 0 0 1 .6 0z" transform="translate(4.13 1.001)" style="fill:#2d2836"/>
+                <g data-name="그룹 12834">
+                    <path data-name="사각형 5968" transform="translate(12.847 4.379)" style="fill:#39d100" d="M0 0h1.899v5.05H0z"/>
+                    <path data-name="사각형 5969" transform="translate(9.709 5.917)" style="fill:#ff4824" d="M0 0h1.899v3.512H0z"/>
+                    <path data-name="사각형 5970" transform="translate(6.57 7.049)" style="fill:#ffab17" d="M0 0h1.899v2.38H0z"/>
+                </g>
+                <path data-name="패스 30664" d="M1876.666 743.19h-1.117v-3.841h-17.083v3.841h-1.117v-7.855a.23.23 0 0 1 .23-.23h18.857a.23.23 0 0 1 .23.23z" style="fill:#979b9b" transform="translate(-1856.349 -722.063)"/>
+                <path data-name="사각형 5971" d="M1.063 0h16.773A1.063 1.063 0 0 1 18.9 1.063v.192H0v-.192A1.063 1.063 0 0 1 1.063 0z" transform="translate(1.209 11.787)" style="fill:#777"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_kids/ 22">
+        <path data-name="사각형 5935" style="fill:none" d="M0 0h22v22H0z"/>
+        <g data-name="그룹 12849">
+            <path data-name="패스 30679" d="M1763.153 736.625v6.983a.556.556 0 0 0 .556.556h2.735a.533.533 0 0 0 .52-.492 4.217 4.217 0 0 1 8.375 0 .534.534 0 0 0 .521.492h2.735a.556.556 0 0 0 .556-.556v-6.983a.556.556 0 0 0-.556-.556h-14.887a.556.556 0 0 0-.555.556z" transform="translate(-1760.153 -722.329)" style="fill:#977bff"/>
+            <g data-name="그룹 12848" transform="translate(4.269 7.992)">
+                <rect data-name="사각형 5985" width="4.742" height="5.748" rx=".688" style="fill:#ff6d00"/>
+                <rect data-name="사각형 5986" width="4.742" height="5.748" rx=".688" transform="translate(8.718)" style="fill:#ffab17"/>
+            </g>
+            <path data-name="패스 30680" d="m1770.179 724.113-6.751 5.931a.575.575 0 0 0 .379 1.007h14.68a.575.575 0 0 0 .38-1.007l-6.751-5.931a1.469 1.469 0 0 0-1.937 0z" transform="translate(-1760.148 -723.06)" style="fill:#39c964"/>
+        </g>
+    </g>
+</svg>

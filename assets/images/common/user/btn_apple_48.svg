@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g data-name="btn_apple/48">
+        <g data-name="그룹 12100" transform="translate(-.5 -.5)">
+            <circle data-name="타원 561" cx="24" cy="24" r="24" transform="translate(.5 .5)"/>
+        </g>
+        <g data-name="그룹 12503">
+            <path data-name="사각형 6105" transform="translate(14 14)" style="fill:none" d="M0 0h20v20H0z"/>
+            <g data-name="그룹 12500">
+                <g data-name="그룹 12502">
+                    <path data-name="패스 30340" d="M12.945 14.4A4.3 4.3 0 0 1 15 10.782a4.455 4.455 0 0 0-3.477-1.891c-1.483-.15-2.9.875-3.645.875s-1.913-.85-3.14-.826A4.657 4.657 0 0 0 .8 11.323C-.881 14.236.365 18.552 2 20.914c.8 1.156 1.75 2.455 3 2.408 1.208-.046 1.664-.779 3.121-.779s1.867.779 3.143.759c1.3-.027 2.119-1.183 2.91-2.339a10.539 10.539 0 0 0 1.326-2.709 4.2 4.2 0 0 1-2.555-3.854" transform="translate(16.251 9.71)" style="fill:#fff"/>
+                    <path data-name="패스 30341" d="M17.751 3.038A4.174 4.174 0 0 0 18.742 0a4.261 4.261 0 0 0-2.8 1.44 3.988 3.988 0 0 0-1.012 2.947 3.533 3.533 0 0 0 2.822-1.35" transform="translate(9.046 14)" style="fill:#fff"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

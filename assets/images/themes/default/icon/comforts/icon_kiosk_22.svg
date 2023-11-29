@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_kiosk/ 22">
+        <path data-name="사각형 6008" style="fill:none" d="M0 0h22v22H0z"/>
+        <g data-name="그룹 12922" transform="translate(-1977.479 -953.232)">
+            <path data-name="사각형 6056" transform="rotate(180 995.016 487.616)" style="fill:#2b2b2b" d="M0 0h2.744v11.453H0z"/>
+            <path data-name="사각형 6057" d="M.5 0a1.7 1.7 0 0 1 1.7 1.7v8.27a1.7 1.7 0 0 1-1.7 1.7.5.5 0 0 1-.5-.5V.5A.5.5 0 0 1 .5 0z" transform="rotate(-90 1479.03 -503.798)" style="fill:#2b2b2b"/>
+            <rect data-name="사각형 6058" width="14.364" height="17.059" rx="1.427" transform="translate(1981.478 953.232)" style="fill:#494949"/>
+            <g data-name="그룹 12921">
+                <rect data-name="사각형 6059" width="11.364" height="11.942" rx=".827" transform="translate(1982.978 954.732)" style="fill:#b5b5b5"/>
+            </g>
+            <rect data-name="사각형 6060" width="7.253" height=".645" rx=".309" transform="translate(1985.034 968.052)" style="fill:#3a3a3a"/>
+        </g>
+    </g>
+</svg>

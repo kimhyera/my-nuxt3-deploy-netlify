@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <clipPath id="y2p6rq9dja">
+            <path data-name="사각형 5806" transform="translate(0 .001)" style="fill:none" d="M0 0h18v16.666H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon_calendar/20">
+        <path data-name="사각형 5796" style="fill:none" d="M0 0h20v20H0z"/>
+        <g data-name="그룹 12573">
+            <g data-name="그룹 12572" style="clip-path:url(#y2p6rq9dja)" transform="translate(1 2)">
+                <path data-name="패스 30538" d="M18 3.481a1.376 1.376 0 0 0-1.376-1.376H1.376A1.376 1.376 0 0 0 0 3.481V6.3h18z" style="fill:#fff"/>
+                <path data-name="패스 30539" d="M0 7.877v6.658a2.131 2.131 0 0 0 2.132 2.131h13.736A2.131 2.131 0 0 0 18 14.535V7.877z" style="fill:#fff"/>
+                <path data-name="패스 30540" d="M3.744 3.387h-.355a.712.712 0 0 1-.71-.71V.709A.712.712 0 0 1 3.389 0h.355a.712.712 0 0 1 .71.709v1.968a.712.712 0 0 1-.71.71" style="fill:#fff"/>
+                <path data-name="패스 30541" d="M14.611 3.387h-.355a.712.712 0 0 1-.71-.71V.709a.712.712 0 0 1 .71-.709h.355a.712.712 0 0 1 .71.709v1.968a.712.712 0 0 1-.71.71" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

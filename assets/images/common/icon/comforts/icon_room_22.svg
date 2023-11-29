@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_room/ 22">
+        <path data-name="사각형 5935" style="fill:none" d="M0 0h22v22H0z"/>
+        <g data-name="그룹 12926" transform="translate(-1592.844 -868.699)">
+            <path data-name="사각형 6062" transform="translate(1595.844 868.699)" style="fill:#e28424" d="M0 0h15.231v22H0z"/>
+            <path data-name="사각형 6063" transform="translate(1596.935 869.788)" style="fill:#5e2f0f" d="M0 0h13.048v20.912H0z"/>
+            <path data-name="사각형 6064" transform="translate(1599.266 871.966)" style="fill:#894111" d="M0 0h8.388v6.859H0z"/>
+            <path data-name="사각형 6065" transform="translate(1599.266 882.938)" style="fill:#894111" d="M0 0h8.388v5.583H0z"/>
+            <circle data-name="타원 758" cx="1.177" cy="1.177" r="1.177" transform="translate(1602.282 879.704)" style="fill:#e28424"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g data-name="btn_kakao/48">
+        <g data-name="그룹 12100" transform="translate(-.5 -.5)">
+            <circle data-name="타원 561" cx="24" cy="24" r="24" transform="translate(.5 .5)" style="fill:#ffe900"/>
+        </g>
+        <g data-name="그룹 12498">
+            <path data-name="사각형 6104" transform="translate(14 14)" style="fill:none" d="M0 0h20v20H0z"/>
+            <g data-name="그룹 7986">
+                <path data-name="패스 8787" d="M497.717 347.948c-5.33 0-9.65 3.442-9.65 7.686a7.455 7.455 0 0 0 4.389 6.443l-.992 3.779 4.436-2.673a12.079 12.079 0 0 0 1.818.138c5.33 0 9.651-3.441 9.651-7.687s-4.321-7.686-9.652-7.686z" transform="translate(-473.718 -332.902)" style="fill:#3e1918"/>
+            </g>
+        </g>
+    </g>
+</svg>

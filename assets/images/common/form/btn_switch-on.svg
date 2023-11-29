@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <defs>
+        <filter id="ukatcm6fsa" x="0" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+            <feOffset dx="-2"/>
+            <feGaussianBlur stdDeviation="2" result="blur"/>
+            <feFlood flood-color="#4e0101" flood-opacity=".102"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#ukatcm6fsa)">
+        <g data-name="btn_toggle-on" transform="translate(8 6)" style="fill:#fff;stroke:#f70;stroke-width:2px">
+            <circle cx="13" cy="13" r="13" style="stroke:none"/>
+            <circle cx="13" cy="13" r="12" style="fill:none"/>
+        </g>
+    </g>
+</svg>

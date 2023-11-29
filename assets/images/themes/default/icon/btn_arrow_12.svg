@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <g data-name="btn_arrow/12">
+        <g data-name="그룹 11566" transform="rotate(180 5.827 4.68)">
+            <rect data-name="사각형 4364" width="1.5" height="8" rx=".75" transform="rotate(-45 1.28 .53)" style="fill:#888"/>
+            <rect data-name="사각형 5083" width="1.5" height="8" rx=".75" transform="rotate(-135 4.218 2.188)" style="fill:#888"/>
+        </g>
+        <path data-name="사각형 5084" style="fill:none" d="M0 0h12v12H0z" transform="rotate(180 6 6)"/>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="62.098" viewBox="0 0 60 62.098">
+    <g data-name="icon_error/ 60">
+        <g data-name="그룹 12764">
+            <g data-name="그룹 12763" transform="translate(1555.629 -940.505)">
+                <g data-name="그룹 12762">
+                    <circle data-name="타원 742" cx="5.118" cy="5.118" r="5.118" transform="translate(-1535.028 974.96)" style="fill:#053046"/>
+                    <circle data-name="타원 743" cx="5.118" cy="5.118" r="5.118" transform="translate(-1522.922 975.241)" style="fill:#053046"/>
+                    <circle data-name="타원 744" cx="5.118" cy="5.118" r="5.118" transform="translate(-1545.653 969.15)" style="fill:#053046"/>
+                </g>
+                <ellipse data-name="타원 745" cx="11.959" cy="20.01" rx="11.959" ry="20.01" transform="rotate(-74.99 -138.353 1498.058)" style="fill:#f70"/>
+                <ellipse data-name="타원 746" cx="15.19" cy="25.415" rx="15.19" ry="25.415" transform="rotate(-74.99 -144.263 1497.65)" style="fill:#053046"/>
+                <path data-name="패스 30592" d="m-1508.182 964.226.661-2.468a16.935 16.935 0 0 0-11.939-20.679 16.934 16.934 0 0 0-20.679 11.939l-.662 2.469c-1.442 5.383 4.69 11.7 13.7 14.117s17.478.006 18.921-5.377z" style="fill:#ddf3f3"/>
+                <path data-name="패스 30593" d="M-1521.306 947.97a10.3 10.3 0 0 0-12.584 7.265l-2.6 9.7a24.9 24.9 0 0 0 9.385 4.672 24.914 24.914 0 0 0 10.464.647l2.6-9.7a10.305 10.305 0 0 0-7.265-12.584z" style="fill:#3db39e"/>
+                <circle data-name="타원 747" cx="5.084" cy="5.084" r="5.084" transform="translate(-1529.034 952.88)" style="fill:#fff"/>
+                <circle data-name="타원 748" cx="2.784" cy="2.784" r="2.784" transform="translate(-1526.734 955.18)" style="fill:#324d5b"/>
+            </g>
+            <path data-name="선 3" transform="translate(15.195 45.719)" style="stroke:#1d1d1b;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.426px;fill:none" d="M1.937 0 0 7.229"/>
+            <path data-name="선 4" transform="translate(26.594 49.39)" style="stroke:#1d1d1b;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.426px;fill:none" d="M2.843 0 0 10.611"/>
+        </g>
+        <path data-name="사각형 5758" style="fill:none" d="M0 0h60v60H0z"/>
+    </g>
+</svg>

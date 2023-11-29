@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_restroom/ 22">
+        <g data-name="그룹 12941">
+            <path data-name="사각형 5999" style="fill:none" d="M0 0h22v22H0z"/>
+            <g data-name="그룹 12889">
+                <g data-name="그룹 12887" transform="translate(.486 1.562)">
+                    <path data-name="패스 30769" d="M1679.652 823.037h-1.186v6.663a.172.172 0 0 1-.172.172h-3.3a.173.173 0 0 1-.172-.172v-6.654h-1.2a.17.17 0 0 1-.172-.17v-5.07a1.56 1.56 0 0 1 1.557-1.561l3.268-.007a1.558 1.558 0 0 1 1.563 1.557v5.079a.17.17 0 0 1-.186.163z" transform="translate(-1673.439 -811.983)" style="fill:#628fe9"/>
+                    <circle data-name="타원 756" cx="1.709" cy="1.709" r="1.709" transform="translate(1.489)" style="fill:#628fe9"/>
+                </g>
+                <g data-name="그룹 12888" transform="translate(13.415 1.562)">
+                    <path data-name="패스 30770" d="M1688.428 824.4h-2.577a.113.113 0 0 1-.109-.148 1882.9 1882.9 0 0 1 2.25-6.749 1.884 1.884 0 0 1 2.683-1.1 1.836 1.836 0 0 1 .907 1.077 2055.38 2055.38 0 0 1 2.248 6.775.112.112 0 0 1-.109.146h-2.556v5.356a.114.114 0 0 1-.114.114h-2.51a.114.114 0 0 1-.114-.114z" transform="translate(-1685.736 -811.986)" style="fill:#fc4d00"/>
+                    <circle data-name="타원 757" cx="1.709" cy="1.709" r="1.709" transform="translate(2.341)" style="fill:#fc4d00"/>
+                </g>
+                <path data-name="사각형 6028" transform="translate(10.261 1.742)" style="fill:#666" d="M0 0h.547v17.523H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

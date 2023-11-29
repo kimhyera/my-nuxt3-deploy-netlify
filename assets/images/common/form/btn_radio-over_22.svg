@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f70;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="btn_radio-over_22" data-name="btn_radio-over/22" transform="translate(-17 -435)">
+    <circle id="타원_642" data-name="타원 642" class="cls-1" cx="11" cy="11" r="11" transform="translate(17 435)"/>
+    <circle id="타원_658" data-name="타원 658" class="cls-2" cx="4" cy="4" r="4" transform="translate(24 442)"/>
+  </g>
+</svg>

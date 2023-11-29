@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_smoking/ 22">
+        <path data-name="사각형 5935" style="fill:none" d="M0 0h22v22H0z"/>
+        <g data-name="그룹 12916" transform="translate(-2010.375 -897.076)">
+            <rect data-name="사각형 6045" width="18.685" height="18.685" rx="2.915" transform="translate(2013.69 899.076)" style="fill:#6a6a6a"/>
+            <g data-name="그룹 12915">
+                <path data-name="패스 30859" d="M2010.375 910.607v2.58a.274.274 0 0 0 .273.274h5.946v-3.127h-5.946a.273.273 0 0 0-.273.273z" style="fill:#e28424"/>
+                <path data-name="사각형 6046" transform="translate(2016.594 910.334)" style="fill:#e8e8e8" d="M0 0h6.207v3.127H0z"/>
+                <path data-name="사각형 6047" transform="translate(2022.801 910.334)" style="fill:#f71100" d="M0 0h1.944v3.127H0z"/>
+            </g>
+            <path data-name="패스 30860" d="M2020.284 902.7a3.075 3.075 0 0 1 2.384.487 3.821 3.821 0 0 1 5.021 5.746h.385a1.815 1.815 0 0 1 1.832 1.59 1.765 1.765 0 0 1-1.756 1.938h-2.463a.149.149 0 0 1-.081-.275 1.831 1.831 0 0 0 .858-1.738 1.886 1.886 0 0 0-1.9-1.653l-3.645-.006a3.077 3.077 0 0 1-.632-6.089z" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

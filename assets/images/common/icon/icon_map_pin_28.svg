@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="33" viewBox="0 0 30 33">
+    <g data-name="icon_map pin/28">
+        <path data-name="사각형 5729" style="fill:none" d="M0 0h30v30H0z"/>
+        <g data-name="그룹 12632" transform="translate(-161 -320)">
+            <ellipse data-name="타원 734" cx="8.5" cy="3" rx="8.5" ry="3" transform="translate(167 344)" style="fill:rgba(0,0,0,.35)"/>
+            <g data-name="그룹 12446">
+                <path data-name="패스 30316" d="M10.759 0A11.168 11.168 0 0 0 .032 12.033c.757 10.144 10.727 15.058 10.727 15.058s9.97-4.913 10.727-15.058A11.168 11.168 0 0 0 10.759 0" transform="translate(165 320)" style="fill:#303258"/>
+                <path data-name="패스 30317" d="M16.3 10.832a5.727 5.727 0 1 1-5.727-5.727 5.728 5.728 0 0 1 5.727 5.727" transform="translate(165.186 320.195)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

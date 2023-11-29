@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_rental/ 22">
+        <path data-name="사각형 6038" style="fill:none" d="M0 0h22v22H0z"/>
+        <g data-name="그룹 12924">
+            <g data-name="그룹 12923" transform="translate(-2052.36 -944.625)">
+                <path data-name="패스 30863" d="M2064.531 958.5v-11.458h-2.343V958.5c0 2.441-1.495 4.438-3.322 4.438h8.987c-1.827-.003-3.322-2-3.322-4.438z" style="fill:#d89a37"/>
+                <rect data-name="사각형 6061" width="12.269" height="2.085" rx=".28" transform="translate(2057.225 962.932)" style="fill:#bf7a00"/>
+            </g>
+            <path data-name="패스 30864" d="M2074.059 952.417h-21.4a.3.3 0 0 1-.3-.3v-2.931a2.561 2.561 0 0 1 2.561-2.562h16.88a2.562 2.562 0 0 1 2.562 2.562v2.931a.3.3 0 0 1-.303.3z" style="fill:#ebbb65" transform="translate(-2052.36 -944.625)"/>
+            <path data-name="패스 30865" d="M2054.921 946.624a2.549 2.549 0 0 0-1.811.751l5.042 5.042 1.849 1.849 1.85-1.849 5.792-5.793z" style="fill:#f8e6cb" transform="translate(-2052.36 -944.625)"/>
+        </g>
+    </g>
+</svg>

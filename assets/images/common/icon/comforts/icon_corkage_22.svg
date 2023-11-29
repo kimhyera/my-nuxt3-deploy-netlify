@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="icon_corkage/ 22">
+        <path data-name="사각형 5935" style="fill:none" d="M0 0h22v22H0z"/>
+        <g data-name="그룹 12937">
+            <g data-name="그룹 12934">
+                <path data-name="사각형 6066" d="M.631 0h6.3a.631.631 0 0 1 .631.631v7.005a1.218 1.218 0 0 1-1.215 1.218H1.218A1.218 1.218 0 0 1 0 7.636V.631A.631.631 0 0 1 .631 0z" transform="translate(13.165 13.145)" style="fill:#dbe1ec"/>
+                <path data-name="패스 30882" d="M1833.308 907.885a1.2 1.2 0 0 0 1.2 1.2h3.405a1.2 1.2 0 0 0 1.2-1.2v-4.332h-5.8z" transform="translate(-1819.259 -887.965)" style="fill:#fd9727"/>
+            </g>
+            <g data-name="그룹 12936" transform="translate(-1820.259 -887.965)">
+                <path data-name="패스 30883" d="m1826.075 893.626-4.335 2.888a1.425 1.425 0 0 0-.481 1.067v11.414a.97.97 0 0 0 .97.97h7.692a.969.969 0 0 0 .969-.97v-11.414a1.428 1.428 0 0 0-.48-1.067z" style="fill:#ffa21a"/>
+                <path data-name="패스 30884" d="M1828.021 893.206a7.039 7.039 0 0 0-.5-3.209h-2.89a7.039 7.039 0 0 0-.5 3.209c0 .119 0 .231.005.34h3.882c0-.109.003-.221.003-.34z" style="fill:#352f3f"/>
+                <path data-name="패스 30885" d="M1824.134 893.546c.046 2.048.5 2.438.5 2.438h2.89s.45-.39.5-2.438z" style="fill:#ffa21a"/>
+                <rect data-name="사각형 6067" width="4.32" height="3.314" rx=".454" transform="translate(1823.915 887.965)" style="fill:#352f3f"/>
+                <path data-name="사각형 6068" transform="translate(1823.915 889.325)" style="fill:#efefef" d="M0 0h4.32v.594H0z"/>
+                <path data-name="사각형 6069" transform="translate(1821.259 898.252)" style="fill:#4a4256" d="M0 0h9.631v9.774H0z"/>
+                <g data-name="그룹 12935">
+                    <path data-name="패스 30886" d="M1828.022 900.892a5.736 5.736 0 0 0-3.894 0 .254.254 0 0 1-.327-.132l-.314-.709a.257.257 0 0 1 .137-.343 7.031 7.031 0 0 1 4.9 0 .257.257 0 0 1 .137.343l-.315.709a.253.253 0 0 1-.324.132z" style="fill:#efefef"/>
+                    <ellipse data-name="타원 761" cx="2.34" cy="1.619" rx="2.34" ry="1.619" transform="translate(1823.735 901.857)" style="fill:#efefef"/>
+                    <rect data-name="사각형 6070" width="4.674" height=".793" rx=".313" transform="translate(1823.738 906.218)" style="fill:#efefef"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
