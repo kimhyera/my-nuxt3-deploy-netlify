@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useCommonStore } from '~/stores/common';
 
+const layout = 'custom'
 
 const commonStore = useCommonStore();
 
@@ -19,38 +20,32 @@ onMounted(async() => {
 
 });
 
-definePageMeta({
-  layout:"default",
-  title: '관리자 현황',
-})
+
+// const setLayout = ref("layout-default")
 
 // definePageMeta({
-//   middleware: [
-//     function (to, from) {
-//       // Custom inline middleware
+//   layout: '1016'
+// })
 
 
-//       console.log('asdf',to);
-      
-//       // if(getData1.value){
-//       //   return console.log('데이터가 있음');
-        
-//       // }
-//     },
-//     'auth',
-//   ],
-// });
 </script>
 <template>
- <main class="main-page">
-  <ContentDoc />
-  <h2> main-page</h2>
+  
+  
 
-  <ul>
-   로그인 이름:  {{ getData1?.name }}
-      <!-- <li v-for="(item, i) in (getData1 as any)" :key="item.id">{{ item.title }}</li> -->
-    </ul>
- </main>
+ <NuxtLayout :name="layout"> 
+
+  <main class="main-page">
+
+<h2> main-page</h2>
+
+<ul>
+로그인 이름:  {{ getData1?.name }}
+
+</ul>
+</main>
+    
+  </NuxtLayout>
 </template>
 <style lang="scss" scoped>
 </style>

@@ -1,13 +1,15 @@
 <script setup lang="ts">
 </script>
 <template>
-  <div class="layout-1016">
+  <div class="link-1">
+    <Header/>
      <slot ></slot>
   </div>
 </template>
 <style lang="scss" scoped>
-.layout-1016{
-  border:1px solid rgb(48, 95, 225);
+.link-1{
+  border:1px solid #00c5f6;
+  background: rgb(206, 238, 255);
   min-height: 300px;
 }
 </style>

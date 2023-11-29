@@ -58,23 +58,22 @@ const url = "https://reqres.in/api/login"
 
 
    console.log(error);
-   
-
-
-   if(data.value?.token.length > 0){
+   if (error) {
+      console.error('Error fetching data:', error);
+    }else{
+      
     alert('로그인되었습니다.')
-   }
+
+    }
 
    isLoading.value = false;
 
-
-   console.log(auth.value);
    
    auth.value.isAuthenticated = true;
 
-
    navigateTo("/main")
 
+   return { data };
    
 }
 
@@ -101,8 +100,4 @@ const url = "https://reqres.in/api/login"
 </template>
 <style lang="scss" >
 
-main{
-  max-width: 800px;
-  padding: 30px;
-}
 </style>

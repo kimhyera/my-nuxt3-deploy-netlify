@@ -2,6 +2,8 @@
 </script>
 <template>
   <div class="custom-layout">
+    
+    <Header/>
      <slot ></slot>
   </div>
 </template>

@@ -15,6 +15,6 @@
   color:#fff;
   font-size:30px;
 
-  background:red;
+  background:#7e1f1f;
 }
 </style>

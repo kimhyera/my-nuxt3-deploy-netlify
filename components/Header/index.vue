@@ -13,23 +13,55 @@ console.log('header',auth.value.isAuthenticated);
         <li>
           <NuxtLink to="/main">main</NuxtLink>
         </li>
-        /
+      
         <li>
           <NuxtLink to="/events">events</NuxtLink>
-        </li>
-        /
-        <li>
+          
+          <ul class="sub">
+             <li>
           <NuxtLink to="/events/122">events/122</NuxtLink>
+              </li>
+              </ul>
+
         </li>
-        /
+      
+        <li>
+          <NuxtLink to="/theme">theme</NuxtLink>
+        </li>
+      
+        <li>
+          <NuxtLink to="/fetch/fetch">$fetch</NuxtLink>
+
+           <ul class="sub">
+             <li>
+              
+               <NuxtLink to="/fetch/fetch">$fetch</NuxtLink>
+             </li>
+             <li>
+              
+               <NuxtLink to="/fetch/asyncData">asyncData</NuxtLink>
+             </li>
+             <li>
+              
+               <NuxtLink to="/fetch/useFetch">useFetch</NuxtLink>
+             </li>
+           </ul>
+        </li>
+     
         <li>
           <NuxtLink to="/custom">custom</NuxtLink>
         </li>
-        /
+     
         <li>
           <NuxtLink to="/ex/directive">directive</NuxtLink>
         </li>
       </ul>
+
+     
+      
+      <NuxtLink to="/login"> <iconLogin/></NuxtLink>
+
+       
   </header>
 </template>
 
@@ -38,14 +70,32 @@ console.log('header',auth.value.isAuthenticated);
 <style lang="scss" scoped>
 header{
 
-  border-bottom: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+padding: 0 20px;
 }
 .nav{
   display: flex;
-  background-color: #fff;
-  padding: 20px;
-  li{
-    padding: 0 20px;
+  padding: 0 10px;
+
+
+
+  >li > a{
+    display: block;
+
+    padding: 10px 20px;
+
+   
+  }
+
+  >li ul{
+    border: 1px solid #ddd;
+     a{
+    display: block;
+    padding: 5px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+
   }
 }
+
 </style>
