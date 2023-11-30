@@ -1,5 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import {resolve} from  'path'
+
 export default defineNuxtConfig({
   alias:{
     // '@': resolve(__dirname, '/'),
@@ -12,8 +12,22 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  
   modules: [
     '@pinia/nuxt',
-    '@nuxt/content'
+    '@nuxt/content',
+    '@pinia-plugin-persistedstate/nuxt',
   ],
+  imports: {
+    autoImport: true
+    
+  },
+  piniaPersistedstate: {
+    cookieOptions: {
+      sameSite: 'strict',
+    },
+    storage: 'localStorage'
+  },
+
+
 })

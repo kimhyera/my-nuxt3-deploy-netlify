@@ -1,27 +1,32 @@
-import { defineStore } from 'pinia'
+// store/user.ts
+import { defineStore } from 'pinia';
+import { ref, onMounted } from 'vue';
 
-export const useCommonStore = defineStore('common', {
-  state: () => (
-    { data1: null, data2: null, 
-      isDataLoaded: false }
-    ),
-  getters: {
-    stateInfo: (state) => state,
-    getData1: (state) => state.data1,
-    getData2: (state) => state.data2,
-    getIsDataLoaded: (state) => state.isDataLoaded,
-  },
-  actions: {
-    setData1(data:any) {
-     this.data1 = data;
-    },
-    setData2(data:any) {
-     this.data2 = data;
-     
-     this.isDataLoaded = true;
-     console.log('setData2');
-     
-    }
+export const useUserStore = defineStore('user', () => {
+  const token = ref(null);
+  const notoken = ref(null);
+  const getToken = computed(()=> token.valu)
+  const getIsAuth = computed(()=> token.value !== null)
 
+  const setToken = (data: any) => {
+    token.value = data;
+  };
+
+  const removeToken = () => {
+    token.value = null;
+  };
+
+  return {
+    token,
+    getToken,
+    getIsAuth,
+    setToken,
+    removeToken,
+  };
+}, {
+  persist: {
+    storage: persistedState.sessionStorage,
+    key: 'token',
+    reducer: (state) => ({ token: state.token }),
   },
-})
+});

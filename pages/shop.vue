@@ -38,7 +38,7 @@ onMounted(async () => {
       <h2> shop-page</h2>
 
       <ul class="flex flex-wrap">
-        <li v-for="(item, i) in list" :key="id">
+        <li v-for="(item, i) in list" :key="i">
           <button>{{ item.title }}</button>
         </li>
 

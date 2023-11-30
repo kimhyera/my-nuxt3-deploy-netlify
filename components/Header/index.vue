@@ -1,14 +1,27 @@
 <script setup>
 const auth = useAuth();
+const user = useUserStore();
 
 console.log('header', auth.value.isAuthenticated);
+
+function onLogout(){
+  auth.value.isAuthenticated = false
+
+  user.removeToken(null)
+  
+  alert('logout');
+}
+
+
+
+const pageVistCount = usePageVisitCount();
 </script>
 
 <template>
+  {{ user.getIsAuth }}
   <header class="flex">
     <HeaderAvatar />
 
-    <div v-if="auth.isAuthenticated">로그인</div>
     <ul class="nav">
       <li>
         <NuxtLink to="/main">main</NuxtLink>
@@ -52,25 +65,39 @@ console.log('header', auth.value.isAuthenticated);
       <li>
         <NuxtLink to="/shop">shop</NuxtLink>
       </li>
-      <li>
+      <!-- <li>
         <NuxtLink to="/custom">custom</NuxtLink>
-      </li>
-
+      </li> -->
+<!-- 
       <li>
         <NuxtLink to="/ex/directive">directive</NuxtLink>
+      </li> -->
+      <li>
+        
+      <NuxtLink to="/profile" class="link-my">profile</NuxtLink>
       </li>
+      
     </ul>
 
+    {{ user.getIsAuth }}
+     <a href="#" v-if="user.getIsAuth">
+      <iconLogout  @click="onLogout"/>
+    </a>
 
-
-    <NuxtLink to="/login" class="btn-login">
-      <iconLogin />
+ 
+    <NuxtLink v-else to="/login" class="btn-login">
+     <iconLogin />
     </NuxtLink>
 
+    
     <div class="cart-row">
       <iconCart />
       <span>1</span>
+
+      <span class="ml-2">visited {{ pageVistCount }}</span>
     </div>
+
+
 
   </header>
 </template>
@@ -119,4 +146,10 @@ header {
     font-size: 12px;
   }
 }
+
+// .link-my{
+//   padding: 6px;
+//   font-weight: 700;
+//   color:rgb(68, 68, 68);
+// }
 </style>

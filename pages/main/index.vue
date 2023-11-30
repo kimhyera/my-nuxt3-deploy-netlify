@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useCommonStore } from '~/stores/common';
+// import { useCommonStore } from '~/stores/common';
 
 const layout = 'custom'
 
@@ -40,7 +40,8 @@ onMounted(async() => {
 <h2> main-page</h2>
 
 <ul>
-로그인 이름:  {{ getData1?.name }}
+로그인 이름:  
+
 
 </ul>
 </main>

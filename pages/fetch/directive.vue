@@ -1,13 +1,18 @@
+
 <script setup lang="ts">
 
-
+const layout = 'default';
 
 </script>
 <template>
- <div class="custom-page">
+  <NuxtLayout :name="layout">
 
-  sadf
- </div>
+    <main class="main-page">
+
+      <h2> Fetch</h2>
+
+    </main>
+
+  </NuxtLayout>
 </template>
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
