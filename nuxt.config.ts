@@ -12,7 +12,12 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  target: 'static',
+ssr: true,
+
+  // 서버 사이드 렌더링을 사용하도록 설정
+build: {
+  extractCSS: true, // CSS를 별도의 파일로 추출
+},
   
   modules: [
     '@pinia/nuxt',

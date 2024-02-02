@@ -2,28 +2,37 @@
 <script setup lang="ts">
 
 const layout = 'default';
-
-definePageMeta({
-  middleware: ()=>{
-
-    const auth = useAuth();
 const user = useUserStore();
 
-console.log(user.getIsAuth);
+// definePageMeta({
+//   middleware: ()=>{
 
-    return user.getIsAuth
+//     const auth = useAuth();
+// const user = useUserStore();
+
+
+//     return user.getIsAuth
     
-  },
-});
+//   },
+// });
 </script>
 <template>
   <NuxtLayout :name="layout">
 
-    <main class="my-page">
+    {{ user?.getIsAuth }}
+
+    <main v-if="user.getIsAuth" class="my-page">
 
 
       <h2> Profile</h2>
     </main>
+
+    
+    <main v-else class="my-page">
+
+
+<h2> 로그인 해주세요 </h2>
+</main>
 
   </NuxtLayout>
 </template>
