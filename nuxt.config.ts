@@ -12,7 +12,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-ssr: true,
+ssr: false,
 
   // 서버 사이드 렌더링을 사용하도록 설정
 build: {

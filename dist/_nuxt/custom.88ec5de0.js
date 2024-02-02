@@ -1,0 +1,1 @@
+import{f as a,r as c,g as n,o as m,c as l}from"./entry.5795d943.js";const r={class:"custom-page"},f=a({__name:"custom",setup(u){const o=c("default"),s=async()=>{new Promise(t=>{const e="link1";o.value=e,console.log(e)})};return n(async()=>{await s(),console.log(o.value)}),(t,e)=>(m(),l("div",r," custom-page "))}});export{f as default};
