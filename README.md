@@ -2,6 +2,11 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+
+## deploy address 
+
+https://shiny-sorbet-4666a3.netlify.app/
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -19,6 +24,8 @@ yarn install
 # bun
 bun install
 ```
+
+
 
 ## Development Server
 
