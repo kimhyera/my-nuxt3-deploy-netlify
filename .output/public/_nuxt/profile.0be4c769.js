@@ -1,0 +1,1 @@
+import{_ as t}from"./nuxt-layout.e383d5db.js";import{f as a,o as n,h as s,w as _,a as e}from"./entry.94d50656.js";const c=e("main",{class:"my-page"},[e("h2",null," Profile")],-1),r="default",i=a({__name:"profile",setup(m){return(p,l)=>{const o=t;return n(),s(o,{name:r},{default:_(()=>[c]),_:1})}}});export{i as default};

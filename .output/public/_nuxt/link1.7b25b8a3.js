@@ -1,1 +1,0 @@
-import{_ as o}from"./index.c9fe09d6.js";import{_ as t,c as n,b as a,am as s,o as c}from"./entry.de0d2e44.js";import"./nuxt-link.67b5398f.js";const r={},d={class:"link-1"};function l(e,i){const _=o;return c(),n("div",d,[a(_),s(e.$slots,"default",{},void 0,!0)])}const u=t(r,[["render",l],["__scopeId","data-v-6b3aaf36"]]);export{u as default};

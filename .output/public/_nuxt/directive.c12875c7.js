@@ -1,1 +1,0 @@
-import{_ as a}from"./nuxt-layout.0d13abe7.js";import{f as o,o as n,h as s,w as _,a as t}from"./entry.de0d2e44.js";const c=t("main",{class:"main-page"},[t("h2",null," Fetch")],-1),r="default",f=o({__name:"directive",setup(m){return(p,u)=>{const e=a;return n(),s(e,{name:r},{default:_(()=>[c]),_:1})}}});export{f as default};
