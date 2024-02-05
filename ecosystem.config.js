@@ -1,10 +1,9 @@
-
 module.exports = {
   apps: [
     {
       name: 'nuxt-app',
-      script: './node_modules/nuxt/bin/nuxt.js', // Nuxt 실행 스크립트의 경로
-      args: 'start', // Nuxt 애플리케이션을 시작하는 명령어
+      script: './node_modules/nuxt/bin/nuxt.js',
+      args: 'start',
       instances: 1,
       autorestart: true,
       watch: false,
