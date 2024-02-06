@@ -11,6 +11,11 @@ https://shiny-sorbet-4666a3.netlify.app/
 
 Make sure to install the dependencies:
 
+
+
+## page
+https://kimhyera00.github.io/My-nuxt3-deploy-Netlify/
+
 ```bash
 # npm
 npm install
