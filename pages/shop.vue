@@ -5,7 +5,7 @@ const layout = 'default';
 
 const commonStore = useCommonStore();
 
-const { getData1 } = storeToRefs(commonStore);
+const { getData1} = storeToRefs(commonStore);
 
 
 const list = ref([])
@@ -14,10 +14,16 @@ const fetchData1 = async () => {
   const response = await fetch(`https://jsonplaceholder.typicode.com/posts`);
   const data = await response.json();
   list.value = data
+
+  commonStore.setData1(data)
 };
 
 onMounted(async () => {
   await fetchData1();
+
+
+
+  
 
 });
 

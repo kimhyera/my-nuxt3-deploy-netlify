@@ -35,5 +35,9 @@ build: {
     storage: 'localStorage'
   },
 
+  server: {
+    port: 4000 // 변경할 포트 번호
+  }
+
 
 })

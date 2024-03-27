@@ -13,18 +13,20 @@ function onLogout(){
 }
 
 
+const commonStore = useCommonStore();
+
+const { getData1} = storeToRefs(commonStore);
 
 const pageVistCount = usePageVisitCount();
 </script>
 
 <template>
-  {{ user.getIsAuth }}
   <header class="flex">
     <HeaderAvatar />
 
     <ul class="nav">
       <li>
-        <NuxtLink to="/main">main</NuxtLink>
+        <NuxtLink to="/main" v-if="getData1">main</NuxtLink>
       </li>
 
       <li>
