@@ -1,1 +1,0 @@
-import{_ as a}from"./nuxt-layout.7f972409.js";import{f as o,o as n,h as s,w as _,a as t}from"./entry.84cb9416.js";const c=t("main",{class:"main-page"},[t("h2",null," Event")],-1),m="default",f=o({__name:"index",setup(r){return(p,u)=>{const e=a;return n(),s(e,{name:m},{default:_(()=>[c]),_:1})}}});export{f as default};
